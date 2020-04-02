@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Snake
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=now
+comment2.target=void\ handle(long)
+comment3.params=gc
+comment3.target=void\ tick(javafx.scene.canvas.GraphicsContext)
+comment4.params=
+comment4.target=void\ newFood()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
